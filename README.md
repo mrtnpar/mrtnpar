@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I’m Martín (he/him)
 
-<!--
-**mrtnpar/mrtnpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Frontend Engineer at [Skillshare](https://www.skillshare.com)
 
-Here are some ideas to get you started:
+##### What I have helped to build:
+- Diverse product used by Consumers, and Companies. Some of them on industries like Ads, News, Ecommerce, Browse & Discovery (Search, and Maps)
+- Design Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### What Technologies I have used to build:
+- JavaScript
+- HTML
+- CSS
+- React
+
+##### What I’m currently learning:
+- iOS Development
+- Creative Writing
+
+##### Bio
+I’m originally from Santiago de Chile, and Currently based on Los Angeles, CA.
